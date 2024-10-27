@@ -1,0 +1,3 @@
+/Users/huan/CLionProjects/relation.class/build/CMakeFiles/RelationTest.dir
+/Users/huan/CLionProjects/relation.class/build/CMakeFiles/edit_cache.dir
+/Users/huan/CLionProjects/relation.class/build/CMakeFiles/rebuild_cache.dir
